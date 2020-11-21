@@ -7,4 +7,3 @@ patients are suffering from that couses and how many patients are recover over t
 
 
 
-find something new to learn
